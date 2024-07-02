@@ -370,6 +370,9 @@ const Home: NextPage = () => {
             </li>
           </ul>
         </div>
+        <div className="max-w-xl max-auto mt-4">
+          <a href="https://clustrmaps.com/site/1c09y"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=02YgsFpbUruEfoxHNXywiwvBEYLKAjEJgbU97tyvVfQ&cl=ffffff" /></a>
+        </div>
       </main>
       <Footer />
       <a
